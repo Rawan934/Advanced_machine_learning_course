@@ -1,3 +1,5 @@
 # Advanced_machine_learning_course
-python 
-ds
+## contents 
+-python 
+-ds
+-machine learning (supervised)
